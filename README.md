@@ -2,18 +2,12 @@
 
 # Project Name
 
-> Description the project.
+> This is the tutorial about how to create LinkedList in the JavaScript.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
+- JavaScript
 
 
 ## Getting Started
@@ -25,16 +19,13 @@
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+- Basic Knowledge of Data Structure
+- Basic JavaScript
+- VS Code
 
 ### Setup
+- git clone https://github.com/Mujeeb4582/LinkedList-JavaScript.git
 
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
 
 
 
@@ -42,15 +33,12 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Mujeeb4582](https://github.com/Mujeeb4582)
+- Twitter: [@Mujeebu93992980](https://twitter.com/Mujeebu93992980)
+- LinkedIn: [mujeeb-ur-rahman-54268011a](https://linkedin.com/in/mujeeb-ur-rahman-54268011a)
 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -64,6 +52,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
+- NoobCoder the author of the totorial [NoobCoder](https://www.youtube.com/watch?v=TRG75kJ2lhk&ab_channel=NoobCoder)
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc
